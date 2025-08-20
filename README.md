@@ -13,8 +13,6 @@ I'm a final year CSE student and a passionate developer from India. Currently bu
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 
-![snake animation](https://github.com/RitamPal26/RitamPal26/blob/output/github-contribution-grid-snake.svg)
-
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,6 +24,10 @@ I'm a final year CSE student and a passionate developer from India. Currently bu
 [![Ritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitamPal26&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitamPal26&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![snake animation](https://raw.githubusercontent.com/RitamPal26/RitamPal26/output/github-contribution-grid-snake.svg)
+
 
 ### 🚀 My Top Projects
 
