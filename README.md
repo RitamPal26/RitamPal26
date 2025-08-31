@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Ritam Pal
 
 I'm a final year CSE student and a passionate developer from India. Currently busy with hackathons.
-📫 How to reach me: ritamjunior26@gmail.com
 
 <a href="https://linkedin.com/in/ritam-pal-124175244/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
