@@ -15,7 +15,7 @@ I'm a final year CSE student and a passionate developer from India. Currently bu
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,express,mongodb,docker,aws,py,c,git" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,express,mongodb,docker,aws,py,c,git" />
   </a>
 </p>
 
@@ -27,11 +27,3 @@ I'm a final year CSE student and a passionate developer from India. Currently bu
 
 ![snake animation](https://raw.githubusercontent.com/RitamPal26/RitamPal26/output/github-contribution-grid-snake.svg)
 
-
-### 🚀 My Top Projects
-
-| Repository | Description | Technologies |
-|---|---|---|
-| **[BluePrint](https://github.com/RitamPal26/BluePrint)** | An AI-integrated bot to help you read documentation, save messages, and answer queries. | Python, Ollama, Discord.py, Firecrawl |
-| **[Culinary-Compass](https://github.com/RitamPal26/Culinary-Compass)** | A recipe discovery web application that allows users to find and save their favorite meals. | React, TypeScript, Node.js, Resend |
-| **[reddit-clone-devops](https://github.com/RitamPal26/reddit-clone-devops)** | A full-stack Reddit clone with a complete CI/CD pipeline using Jenkins, SonarQube and Docker. | Next.js, TypeScript, Docker |
