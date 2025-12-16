@@ -8,7 +8,7 @@ I'm a final year CSE student and a passionate developer from India. Currently bu
 <a href="https://x.com/JuniorDev26" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-<a href="https://linktr.ee/RitamPal26" target="_blank">
+<a href="https://www.ritam.fun/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 
